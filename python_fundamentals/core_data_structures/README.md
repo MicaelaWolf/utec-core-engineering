@@ -13,3 +13,5 @@
 5. common_elements: Devuelve un conjunto de elementos comunes en dos conjuntos.
 
 6. update_dictionary: Reemplaza o agrega un par clave/valor en un diccionario.
+
+7. best_score: Devuelve la clave con el valor entero más grande.

@@ -9,3 +9,5 @@
 3. pow: Devuelve el valor de "a" elevado a la potencia de "b".
 
 4. add: Importa una función simple desde un archivo simple.
+
+5. calculation: Suma, resta, multiplica y divide dos numeros al importar las funciones.

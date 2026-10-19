@@ -11,3 +11,5 @@
 4. add_tuple: Suma dos tuplas.
 
 5. common_elements: Devuelve un conjunto de elementos comunes en dos conjuntos.
+
+6. update_dictionary: Reemplaza o agrega un par clave/valor en un diccionario.

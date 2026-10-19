@@ -9,3 +9,5 @@
 3. print_matrix_integer: Imprime una matriz de enteros.
 
 4. add_tuple: Suma dos tuplas.
+
+5. common_elements: Devuelve un conjunto de elementos comunes en dos conjuntos.

@@ -11,3 +11,5 @@
 4. add: Importa una función simple desde un archivo simple.
 
 5. calculation: Suma, resta, multiplica y divide dos numeros al importar las funciones.
+
+6. variable load: Importa la variable "a" e imprime su valor.

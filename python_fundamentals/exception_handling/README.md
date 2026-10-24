@@ -10,3 +10,4 @@
 
 4. raise_exception: Lanza un TypeError.
 
+5. raise_exception_msg: Lanza un mensaje personalizado.

@@ -6,3 +6,5 @@
 
 2. safe_print_list_integers: Imprime los primeros elementos de una lista.
 
+3. safe_print_division: Divide dos enteros.
+

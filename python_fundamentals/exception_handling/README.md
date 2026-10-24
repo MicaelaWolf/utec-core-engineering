@@ -2,3 +2,5 @@
 
 0. safe_print_list: Imprime elementos de una lista.
 
+1. safe_print_integer: Intenta imprimir un valor como entero. Si lo consigue, devuelve True; si no, devuelve False.
+

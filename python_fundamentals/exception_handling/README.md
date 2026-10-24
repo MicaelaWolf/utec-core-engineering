@@ -8,3 +8,5 @@
 
 3. safe_print_division: Divide dos enteros.
 
+4. raise_exception: Lanza un TypeError.
+

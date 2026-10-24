@@ -4,3 +4,5 @@
 
 1. safe_print_integer: Intenta imprimir un valor como entero. Si lo consigue, devuelve True; si no, devuelve False.
 
+2. safe_print_list_integers: Imprime los primeros elementos de una lista.
+

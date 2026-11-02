@@ -9,3 +9,5 @@
 3. 3-square: Implementa metodos de instancia.
 
 4. 4-square: Implementa acceso controlado a los atributos.
+
+5. 5-square: Usa el estado del objeto para generar salida.

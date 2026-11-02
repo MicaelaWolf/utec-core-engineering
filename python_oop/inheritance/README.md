@@ -7,3 +7,5 @@
 3. 2-rectangle: Extiende la clase rectangulo.
 
 4. 1-square: Crea una clase cuadrado que hereda de rectangulo.
+
+5. 2-square: Extiende la clase cuadrado.

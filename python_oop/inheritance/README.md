@@ -5,3 +5,5 @@
 2. 1-rectangle: Crea una clase rectangulo que hereda de la clase anterior, define su ancho y su altura.
 
 3. 2-rectangle: Extiende la clase rectangulo.
+
+4. 1-square: Crea una clase cuadrado que hereda de rectangulo.

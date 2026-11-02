@@ -15,3 +15,5 @@
 6. 6-square: Controla como se representan los objetos como cadenas.
 
 7. 1-rectangle: Define una segunda clase llamada rectangulo.
+
+8. 2-rectangle: Implementa el comportamiento de la clase rectangulo.

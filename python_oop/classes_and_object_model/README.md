@@ -7,3 +7,5 @@
 2. 2-square: Asegura que el estado del objeto sea valido.
 
 3. 3-square: Implementa metodos de instancia.
+
+4. 4-square: Implementa acceso controlado a los atributos.

@@ -13,3 +13,5 @@
 5. 5-square: Usa el estado del objeto para generar salida.
 
 6. 6-square: Controla como se representan los objetos como cadenas.
+
+7. 1-rectangle: Define una segunda clase llamada rectangulo.
